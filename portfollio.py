@@ -19,7 +19,7 @@ profile_pic = current_dir / "assets" / "boss.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Rahima Sarfraz"
 PAGE_ICON = ":wave:"
-NAME = "Rahima Sarfraz"
+NAME = "Rahima Sarfraz💞"
 DESCRIPTION = """
 Cherry, Pookie
 """
