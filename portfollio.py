@@ -17,11 +17,11 @@ profile_pic = current_dir / "assets" / "boss.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Muhammad Musa Maqsood"
+PAGE_TITLE = "Digital CV | Rahima Sarfraz"
 PAGE_ICON = ":wave:"
-NAME = "Muhammad Musa Maqsood"
+NAME = "Rahima Sarfraz"
 DESCRIPTION = """
-Data Analyst, Electrical Engineer
+Cherry, Pookie
 """
 
 
@@ -52,17 +52,13 @@ with col2:
 
 
 
-st.subheader("Projects")
+st.subheader("HAPPY BIRTHDAY")
 st.write(
 """
--  🏆Sentimental Analysis 
--  🏆Movie Recommendation System
--  🏆User Management System
--  🏆Credit Card Fraud Detection
--  🏆Weather app
--  🏆Voice Recognition System
--  🏆Restaurant Reservation System
--  🏆loan eligibility system
--  🏆Scrapping data from google maps
+Happy Birthday, Rahima ❤️
+Every moment with you feels like magic,
+I’m so grateful for your love, your laughter, and your beautiful heart.Rahima, you’ve brought so much love and happiness into my life that I honestly can’t imagine a world without you in it.
+On this special day, I just want you to know how incredibly grateful I am for you. I hope this year brings you all the happiness and success your heart desires, because you deserve nothing less than the absolute best.
+
 """
 )
