@@ -51,7 +51,7 @@ with col2:
 
 
 
-st.write('\n')
+
 st.subheader("Projects")
 st.write(
 """
