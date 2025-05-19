@@ -50,10 +50,7 @@ with col2:
 
 
 # --- SOCIAL LINKS ---
-st.write('\n')
-cols = st.columns(len(SOCIAL_MEDIA))
-for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
-    cols[index].write(f"[{platform}]({link})")
+
 #education
 
 st.write('\n')
