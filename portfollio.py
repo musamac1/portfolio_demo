@@ -58,7 +58,7 @@ st.write(
 Happy Birthday, Rahima ❤️
 Every moment with you feels like magic,
 I’m so grateful for your love, your laughter, and your beautiful heart.Rahima, you’ve brought so much love and happiness into my life that I honestly can’t imagine a world without you in it.
-On this special day, I just want you to know how incredibly grateful I am for you. I hope this year brings you all the happiness and success your heart desires, because you deserve nothing less than the absolute best.
-
+On this special day I just want you to know how incredibly grateful I am for you  I hope this year brings you all the happiness and success your heart desires because you deserve nothing less than the absolute best.
+my heart, my joy, my everything. I’m so lucky to be loved by you, and I promise to keep loving you more and more with every passing year I promise to stand by you, cheer for you, support you, and love you through every high and low
 """
 )
