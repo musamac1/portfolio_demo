@@ -49,63 +49,8 @@ with col2:
    
 
 
-# --- SOCIAL LINKS ---
-
-#education
-
-st.write('\n')
-st.subheader("Education")
-st.write(
-    """
-- ✔️ University Of Engineering Technology,Lahore (2023-2027)
-- 🏆 Electrical Engineering
-- ✔️ GCU,Lahore (2021-2023)
-- 🏆 FSC-Pre engg
-- ✔️ The Educators (2019-2021)
-- 🏆 Matriculation-Computer Science
-"""
-)
-# --- EXPERIENCE & QUALIFICATIONS ---
-st.write('\n')
-st.subheader("Experience & Qualifications")
-st.write(
-    """
-- ✔️ Veroboard Circuit Designing
-- ✔️ knowledge in Python , C and MS OFFICE
-- ✔️ PCB designing
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
-"""
-)
 
 
-# --- SKILLS ---
-st.write('\n')
-st.subheader("Hard Skills")
-st.write(
-    """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas),C
-- 📊 Data Visulization:  MS Excel
-- 📚 Modeling: Logistic regression, linear regression, decision trees
-- 🏆 Circuit designing: Altium and Multisim
-"""
-)
-st.write('\n')
-st.subheader("Certifications")
-st.write(
-    """
-- 👩‍💻Data Science and Machine Learning using python 
-- 🏆LUMS(2024)
-
-"""
-)
-st.write('\n')
-st.subheader("Award And Honors")
-st.write(
-    """
--	✔️Got fifth position in the entrance exam of GCU, Lahore (pre-engineering) out of 15000 students
--   ✔️ Fourth Position in Matric(1094/1100)
-"""
-)
 st.write('\n')
 st.subheader("Projects")
 st.write(
